@@ -1,4 +1,3 @@
-package DSA;
 
 public class Panidrome {
     public static void main(String[] args) {

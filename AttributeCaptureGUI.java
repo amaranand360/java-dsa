@@ -16,11 +16,11 @@ public class AttributeCaptureGUI extends JFrame {
 
     public AttributeCaptureGUI() {
         setTitle("Database Operation with Java Swing and MySQL");
-        setSize(400, 200);
+        setSize(400, 400);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         JPanel panel = new JPanel();
-        panel.setLayout(new GridLayout(4, 2));
+        panel.setLayout(new GridLayout(3, 2));
 
         JLabel attribute1Label = new JLabel("Enter number 1:");
         attribute1TextField = new JTextField();

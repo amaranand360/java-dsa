@@ -52,6 +52,7 @@ static class Student {
         // isMale=true;
     } 
 
+
     Student(String name,int age,int usn,String address,float cgpa){ //constructor with some parameter
         this.name = name;
         this.age=age;
